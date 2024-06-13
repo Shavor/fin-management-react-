@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.d51532ad.js",
-    "index.html": "/index.html",
-    "main.d51532ad.js.map": "/static/js/main.d51532ad.js.map"
+    "main.js": "/fin-management-react-/static/js/main.f19f0f1a.js",
+    "index.html": "/fin-management-react-/index.html",
+    "main.f19f0f1a.js.map": "/fin-management-react-/static/js/main.f19f0f1a.js.map"
   },
   "entrypoints": [
-    "static/js/main.d51532ad.js"
+    "static/js/main.f19f0f1a.js"
   ]
 }
